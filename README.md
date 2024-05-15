@@ -15,6 +15,7 @@ A tube will be connected to 4 sensors that can detect sip and puff actions, that
 
 As moist should be prevented from entering the sensors Anti-tar cigarette filters should be placed on the inlets. A filter will be ok for about a week of usage and should be replaced after.
 
+To create create a tight connection for the tar-filter mouht pieces I used heat-proof electric-wire insulation tape, cut in half and wrap arround the inlets twice. The tape needed replacedment after a year of usage.
 
 ## Base prices
 
@@ -34,3 +35,4 @@ Total fixed costs: 11,17
 - 28AWG cable: € 0,22 meter
 - Silicon tube (food save): € 1,07 meter
 - Anti-tar cigarette filters (100): € 8,50
+- heat-proof electric-wire insulation tape (10cm): € 0,02
